@@ -1,0 +1,28 @@
+.section-carousel::before {
+  content: "";
+  height: 56px;
+  display: block;
+}
+
+.carousel-inner {
+  height: 70vh;
+  width: 100%;
+}
+.bg-img1 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(./img/images.png);
+  height: 100%;
+}
+.bg-img2 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(./img/images1.jpeg);
+  height: 100%;
+}
+.bg-img3 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(./img/images2.png);
+  height: 100%;
+}
